@@ -1,1 +1,3 @@
-# JmH.github.io
+# Hi!
+
+-I'm currently learning cs stuff.
