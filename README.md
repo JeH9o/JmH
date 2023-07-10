@@ -1,3 +1,3 @@
 # Hi!
 
--I'm currently learning cs stuff.
+I'm currently learning cs stuff.
